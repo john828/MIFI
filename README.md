@@ -17,5 +17,5 @@ If you find this code or data useful, please consider citing our work.
     @InProceedings{MIFI-2023,
     author    = {Jian Kuang, Wenjing Li, Fang Li, Jun Zhang, Zhongcheng Wu},
     title     = {MIFI: MultI-camera Feature Integration for Roust 3D Distracted Driver Activity Recognition},
-    booktitle = {Under Review},
+    booktitle = {IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS},
     year      = {2023}}
